@@ -57,7 +57,7 @@ I believe in **"vibe coding"** — writing code that feels right, with clean log
 <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=okcid92&show_icons=true&theme=radical&hide_border=true" height="220" alt="GitHub Stats" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=okcid92&theme=radical&hide_border=true" height="350" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=okcid92&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10" height="350" alt="Top Languages" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=okcid92&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10" height="300" alt="Top Languages" />
 </p>
 
 <!-- Contribution Graph -->
