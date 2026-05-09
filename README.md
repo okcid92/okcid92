@@ -71,7 +71,7 @@ I believe in **"vibe coding"** — writing code that feels right, with clean log
 ## 📞 Get In Touch
 
 - 📧 Email: [dickoalou04@gmail.com](mailto:dickoalou04@gmail.com)
-- 💼 LinkedIn: [Alou Dicko](www.linkedin.com/in/dickoalou04)
+- 💼 LinkedIn: [Alou Dicko](www.linkedin.com/in/dickoalou)
 - 🐙 GitHub: [okcid92](https://github.com/okcid92)
 - 📍 Location: Ouagadougou, Burkina Faso
 
